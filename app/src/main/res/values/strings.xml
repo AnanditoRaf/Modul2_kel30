@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Modul 2 Kelompok 30</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="main_title">Get Data dari Rest API</string>
+    <string-array name="kelompok30">
+    <item>Fitri Mardiana - 21120119130112</item>
+    <item>Abdullah Azzam Farid M. - 21120119130071</item>
+    <item>M. Anandito Rafiansyah - 21120119130082 </item>
+    <item>Saipul Anwar - 21120119120034</item>
+</string-array>
+
+</resources>
